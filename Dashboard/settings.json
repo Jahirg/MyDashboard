@@ -1,0 +1,54 @@
+{
+    "app_name": "Dash Control",
+    "custom_title_bar": true,
+    "startup_size": [
+        920,
+        450
+    ],
+    "minimum_size": [
+        800,
+        390
+    ],
+    "left_menu": {
+        "color_idle": "#151617",
+        "color_hover": "#ACE500",
+        "color_pressed": "#ACE500",
+        "color_actived": "#151617",
+        
+        "icon_color_idle": "#E6E6E6",
+        "icon_color_hover": "#151617",
+        "icon_color_pressed": "#ACE500",
+        "icon_color_actived": "#ACE500",
+        
+        "tooltip_bg": "#0b0b0b",
+        "tooltip_border": "#00ff00"
+    },
+    "top_menu": {
+        "color_idle": "#151617",
+        "color_hover": "#00ACE5",
+        "color_pressed": "#00ACE5",
+        "color_actived": "#151617",
+        
+        "icon_color_idle": "#E6E6E6",
+        "icon_color_hover": "#151617",
+        "icon_color_pressed": "#00ACE5",
+        "icon_color_actived": "#00ACE5",
+        
+        "tooltip_bg": "#0b0b0b",
+        "tooltip_border": "#00ace5"
+    },
+     "top_menu_extra": {
+        "color_idle": "#151617",
+        "color_hover": "#151617",
+        "color_pressed": "#00ACE5",
+        "color_actived": "#00ffff",
+        
+        "icon_color_idle": "#E6E6E6",
+        "icon_color_hover": "#00ffff",
+        "icon_color_pressed": "#00ACE5",
+        "icon_color_actived": "#151617",
+        
+        "tooltip_bg": "#0b0b0b",
+        "tooltip_border": "#00ffff"
+    }
+}
