@@ -114,7 +114,7 @@ class LeftMenuButton(QWidget):
 	# DRAW ICON WITH COLORS ############################################
 	def icon_paint(self, qp, image, rect, color):
 		icon = QPixmap(image)
-		icon = icon.scaled(40, 40, Qt.KeepAspectRatio, Qt.FastTransformation) # resize ICONS
+		icon = icon.scaled(40, 40, Qt.KeepAspectRatio, Qt.SmoothTransformation) # resize ICONS
 		painter = QPainter(icon)
 		
 		self.blur_effect = QGraphicsBlurEffect()
